@@ -16,4 +16,4 @@ The essential parts of Lambda Calculus can be thought of as three things:
 ## Eta Reduction
 
 # Trivia
-While the untyped variant of Lambda Calculus is thought of as a canonical model that can carry out any conceivable computation, not all variants of Lambda Calculus is so. This property of being able to complete any computation is termed as *Turing Completeness* and the typed variant of Lambda Calculus is not Turing Complete.
+While the untyped variant of Lambda Calculus is thought of as a canonical model that can carry out any conceivable computation, not all variants of Lambda Calculus is so. This property of being able to complete any computation is termed as **Turing Completeness** and the typed variant of Lambda Calculus is not Turing Complete.
