@@ -11,7 +11,9 @@ The essential primitives of Lambda Calculus are three things:
 
 ## Variables
 Variables store an abstraction built up of functions.
+
 ## Functions
+
 ## Application
 
 # Using the primitives
@@ -28,6 +30,9 @@ The trinity of variables acting as names, functions, and application can be thou
 # Variables
 # Bound Variables
 # Application
+
+<!-- Insert an abstraction -> concretization/specialization diagram -->
+
 ## Parameter Expression vs. Argument Expression
 
 # Trivia
