@@ -3,8 +3,11 @@ Guide to understand the Lambda Calculus
 
 Lambda Calculus is a term usually tossed around in the programming circles supposedly providing the undergirding for functional programming, but I find very rarely understood for what it is in it's original flavour. I undertook this quest to find out what it finally is about and here are my findings.
 
+## Motivation
+While it was comforting to remain in the shadows of the giants and take the computer stack for granted, half a decade hacking on the system and constantly consuming articles from people active in the community, you develop this notion that most of the technology that we take for granted has reached this point of iteration after going through considerable amounts of constraints, not all of which are immutable or geared for the welfare of a daily programmer. Some are well thought out, many are historical accidents, and a great many micro-decisions that manifests at the day to day level are just utter chaos resulting from decisions with rationale as weak as "if its not broken, dont fix it, and ramp up the complexity to 11". After realizing that I was in the breads and circuses business of pop culture computing, I thought of looking elsewhere and thats when I figured the answer could lie beneath the historical layers. A lot of great many works in the past inspired me and I continued to look further where in I found out that one needs to have a good understanding of an entire system inorder to figure out why/how/what is happening at any one particular level. So in that sense, this document is a thorough look at the language level of a functional programming language that is commonly used as the lingua franca to translate the electrical  communicate with the computer system.
+
 # Elements of Lambda Calculus
-The essential parts of Lambda Calculus can be thought of as three things:
+The essential primitives of Lambda Calculus are three things:
 
 ## Variables
 ## Functions
