@@ -25,5 +25,10 @@ The trinity of variables acting as names, functions, and application can be thou
 ## Beta Reduction
 ## Eta Reduction
 
+# Variables
+# Bound Variables
+# Application
+## Parameter Expression vs. Argument Expression
+
 # Trivia
 While the untyped variant of Lambda Calculus is thought of as a canonical model that can carry out any conceivable computation, not all variants of Lambda Calculus is so. This property of being able to complete any computation is termed as **Turing Completeness** and the typed variant of Lambda Calculus is not Turing Complete.
