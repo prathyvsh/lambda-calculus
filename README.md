@@ -15,7 +15,10 @@ Variables store an abstraction built up of functions.
 ## Application
 
 # Using the primitives
-The primitives can be put together to compose expressions which can be evaluated to produce a result. The evaluation proceeds by continuously applying the functions until a result is produced.
+The primitives can be put together to compose expressions which can be evaluated to produce a result. The evaluation proceeds by continuously applying the functions until a resultant value is produced.
+
+# A network traversal metaphor of computation
+The trinity of variables acting as names, functions, and application can be thought of as a memory network (DAG) which is continuously traversed to obtain a sequence of values in the end. So evaluation is a continuous graph traversal built up of values which can be stored as variables. These values form a network by composing functions together. These functions act are a mapping between values which can be realized by passing the appropriate argument. The process by which it is realized is called an application. Thus variables when passed to functions on application is how Lambda Calculus performs computation.
 
 # Essential Operations
 ## Alpha Conversion
