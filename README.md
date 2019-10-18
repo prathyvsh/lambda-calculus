@@ -10,8 +10,12 @@ While it was comforting to remain in the shadows of the giants and take the comp
 The essential primitives of Lambda Calculus are three things:
 
 ## Variables
+Variables store an abstraction built up of functions.
 ## Functions
 ## Application
+
+# Using the primitives
+The primitives can be put together to compose expressions which can be evaluated to produce a result. The evaluation proceeds by continuously applying the functions until a result is produced.
 
 # Essential Operations
 ## Alpha Conversion
