@@ -1,5 +1,4 @@
-# Lambda Calculus
-Guide to understand the Lambda Calculus
+# Understanding Lambda Calculus
 
 Lambda Calculus is a term usually tossed around in the programming circles supposedly providing the undergirding for functional programming, but I find very rarely understood for what it is in it's original flavour. I undertook this quest to find out what it finally is about and here are my findings. This tutorial will give the necessary theory grounding to build up your own Lambda Calculus language you can play with.
 
