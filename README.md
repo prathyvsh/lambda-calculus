@@ -5,6 +5,14 @@ Lambda Calculus is a term usually tossed around in the programming circles suppo
 ## Motivation
 While it was comforting to remain in the shadows of the giants and take the computer stack for granted, half a decade hacking on the system and constantly consuming articles from people active in the community, you develop this notion that most of the technology that we take for granted has reached this point of iteration after going through considerable amounts of constraints, not all of which are immutable or geared for the welfare of a daily programmer. Some are well thought out, many are historical accidents, and a great many micro-decisions that manifests at the day to day level are just utter chaos resulting from decisions with rationale as weak as "if its not broken, dont fix it, and ramp up the complexity to 11". After realizing that I was in the breads and circuses business of pop culture computing, I thought of looking elsewhere and thats when I figured the answer could lie beneath the historical layers. A lot of great many works in the past inspired me and I continued to look further where in I found out that one needs to have a good understanding of an entire system inorder to figure out why/how/what is happening at any one particular level. So in that sense, this document is a thorough look at the language level of a functional programming language that is commonly used as the lingua franca to translate the electrical  communicate with the computer system.
 
+# A little history
+![David Hilbert's potrait](./hilbert.png)
+Church's formalization of Lambda Calculus came in direct response to Entscheidungsproblem which was formulated by Hilbert. Hilbert's original problem required an algorithm a statement of first-order logic and checking if it is valid in every structure satisfying the axioms. This condition means that the axioms of the first order logic will logically entail (that is can be used to produce) any statement which is held in a structure built up of the axioms. Inorder to begin answering this question, Church came up with the conceptual structure of Lambda Calculus in which computation of a function can be thought of as its logical entailment achieving a definite answer. Once this conceptual structure was obtained, Church answered this question in negative, that is, not every statement existing in an axiomatic structure can be "effectively calculated".
+
+As a byproduct of this enquiry, they also had to formalize the definition of an algorithm and "effectively calculable".
+
+<!-- Talk about how decidability factors in here -->
+
 # Elements of Lambda Calculus
 The essential primitives of Lambda Calculus are three things:
 
