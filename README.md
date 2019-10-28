@@ -11,17 +11,27 @@ Church's formalization of Lambda Calculus came in direct response to Entscheidun
 
 As a byproduct of this enquiry, they also had to formalize the definition of an algorithm and "effectively calculable".
 
-<!-- Talk about how decidability factors in here -->
+In my current research, the question was first touched upon by Leibniz, then Boole, then Frege in Begriffsschrift, on and on until it became a well researched strand of theoretical research. The structure of addressing this problem as that of computability emerged in history after its emergence from the famous [Hilbert Problems](https://en.wikipedia.org/wiki/Hilbert%27s_problems).
+
+<!-- Talk about how decidable/undeciddable problems factors in here -->
 
 # Elements of Lambda Calculus
 The essential primitives of Lambda Calculus are three things:
 
 ## Variables
-Variables store an abstraction built up of functions.
+Variables store an abstraction built up of functions. These can be thought of as names and these names carry meaning as it is assigned in the interpretational framework. Only a tower of interpretational layers, some of which lives inside the head of a user who is interpreting these signs is what gives them a meaning. The objective results that one gains through these so called "calculations" are only made meaningful when we know what the results signify in the larger framework of Mathematics. In this sense, Lambda Calculus can be thought of as an upward accumulation and downward travel and the intermediate states which signify things meaningful to us humans. It is a simple mechanism by which exploration through mathematical signs in a rigorous, automatic, and rule driven manner.
 
-## Functions
+## Abstraction
+Abstraction can be thought of as lifting up, or an upward creation of an equivalent structure which can be parametrized. These parameters can be other values similarly abstracted. Abstractions commonly lead to a higher level representation/structure. A function formed in this function can be thought of as an expression that can be applied.
 
 ## Application
+Application can be thought of as projecting, or a downward traversal.
+
+
+# Identifying parts of an expression
+In an expression like: `λval.val + 3` `λval.` is the head and `val + 3` is the body.
+
+Head is for pattern matching the bound variables. The ones that appear in the body are free variables. The head directly identifies which values in the body is to be replaced.
 
 # Using the primitives
 The primitives can be put together to compose expressions which can be evaluated to produce a result. The evaluation proceeds by continuously applying the functions until a resultant value is produced.
@@ -30,20 +40,42 @@ The primitives can be put together to compose expressions which can be evaluated
 The trinity of variables acting as names, functions, and application can be thought of as a memory network (DAG) which is continuously traversed to obtain a sequence of values in the end. So evaluation is a continuous graph traversal built up of values which can be stored as variables. These values form a network by composing functions together. These functions act are a mapping between values which can be realized by passing the appropriate argument. The process by which it is realized is called an application. Thus variables when passed to functions on application is how Lambda Calculus performs computation.
 
 # Essential Operations
+
 ## Alpha Conversion
+Alpha conversion creates a non-conflicting namespace for proper application to follow. Another way to perform this is using DeBrujjn's index that makes use of an ordinal system to create non-conflicting namespaces.
+
 ## Beta Reduction
+`⋀fun.⋀arg.(fun arg) add 3 |- (add 3)`
+
 ## Eta Reduction
+` ⋀name.(func name) |-  `
 
 # Variables
+
 # Bound Variables
 # Application
 
 <!-- Insert an abstraction -> concretization/specialization diagram -->
 
+# Bound/Free Variables : Open/Closed Expressions
+
+# Redex
+
 ## Parameter Expression vs. Argument Expression
+
+# Applicative Order / Normal Order
+
+# Normal Form
+Something is in normal form when it can't be reduced further.
 
 # Church Numerals
 <!-- Give a brief history of Church Encoding and its uses. -->
 
 # Trivia
 While the untyped variant of Lambda Calculus is thought of as a canonical model that can carry out any conceivable computation, not all variants of Lambda Calculus is so. This property of being able to complete any computation is termed as **Turing Completeness** and the typed variant of Lambda Calculus is not Turing Complete.
+
+# Equivalent models of computation
+
+Recursive functions by Kleene.
+Turing Machine by Alan Turing.
+What was Gödel's theory called?
