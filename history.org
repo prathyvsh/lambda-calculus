@@ -1,6 +1,6 @@
 * History
 
-* Read
+* Finished
 
 ** Gian Carlo Rota  on Church
 *Author: Gian Carlo Rota*
@@ -46,4 +46,5 @@ https://ieeexplore.ieee.org/document/4640786
 
 ** Lambda Calculus Timeline (2010)
 *Author: Dana Scott*
+
 Download: https://turing100.acm.org/lambda_calculus_timeline.pdf
