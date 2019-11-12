@@ -42,7 +42,14 @@ The Bulletin of Symbolic Logic 3.2: 181–215. DOI 10.2307/421013.
 ** Highlights of the History of the  Lambda Calculus
 https://ieeexplore.ieee.org/document/4640786
 
+** Origins of recursive function theory (1981)
+*Author: Stephen Cole Kleene*
+https://www.computer.org/csdl/magazine/an/1981/01/man1981010052/13rRUNvyamS
+
 ** Lambda Calculus Timeline (2010)
 *Author: Dana Scott*
 
 Download: https://turing100.acm.org/lambda_calculus_timeline.pdf
+
+** The History and Concept of Computability
+http://www.people.cs.uchicago.edu/~soare/History/handbook.pdf
