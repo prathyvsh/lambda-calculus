@@ -1,0 +1,49 @@
+* History
+
+* Read
+
+** Gian Carlo Rota  on Church
+*Author: Gian Carlo Rota*
+http://www-history.mcs.st-andrews.ac.uk/history/Extras/Rota_Church.html
+
+Funny take on Church's life. I might take up reading his book
+Indiscrete Thoughts:
+https://www.goodreads.com/book/show/1646354.Indiscrete_Thoughts to get
+a better perspective of how things evolved during 1950-1990.
+
+** Alonzo Church: His Life, His Work and Some of His Miracles
+*Author: María Manzano*
+
+https://www.tandfonline.com/doi/abs/10.1080/01445349708837290
+
+Gives a detail of the background in which Lambda Calculus emerged. The
+author attempts to portray Lambda Calculus as the great discovery of
+Church and rest of his works as derivatives of that keystone work. It
+also contains anecdotes from contemporaries and people who have worked
+on the lineage of Lambda Calculus.
+
+** Slide Deck on the evolution of Lambda Calculus by Philip Wadler
+*Author: Philip Wadler*
+
+https://homepages.inf.ed.ac.uk/wadler/papers/leicester/leicester-turing.pdf
+A breezy overview of the evolution of Lambda Calculus. Showed link
+with Gentzen's work.
+
+
+* To Read
+
+** Lambda calculus and combinators in the 20th century.
+Cardone, Felice & J. Roger Hindley. 2009. 
+
+** The logic of Church and Curry.
+Seldin, Jonathan P. 2009. 
+
+** The impact of the lambda calculus in logic and computer science.
+The Bulletin of Symbolic Logic 3.2: 181–215. DOI 10.2307/421013.
+
+** Highlights of the History of the  Lambda Calculus
+https://ieeexplore.ieee.org/document/4640786
+
+** Lambda Calculus Timeline (2010)
+*Author: Dana Scott*
+Download: https://turing100.acm.org/lambda_calculus_timeline.pdf
