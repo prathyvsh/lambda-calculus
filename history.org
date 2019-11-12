@@ -53,3 +53,6 @@ Download: https://turing100.acm.org/lambda_calculus_timeline.pdf
 
 ** The History and Concept of Computability
 http://www.people.cs.uchicago.edu/~soare/History/handbook.pdf
+
+** The Theory of Recursive Functions, approaching its centennial
+https://projecteuclid.org/euclid.bams/1183548220
