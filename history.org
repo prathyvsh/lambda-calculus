@@ -2,9 +2,9 @@
 
 * Finished
 
-** Gian Carlo Rota  on Church
+[[http://www-history.mcs.st-andrews.ac.uk/history/Extras/Rota_Church.html][Gian Carlo Rota on Church]]
+
 *Author: Gian Carlo Rota*
-http://www-history.mcs.st-andrews.ac.uk/history/Extras/Rota_Church.html
 
 Funny take on Church's life. I might take up reading his book
 Indiscrete Thoughts:
