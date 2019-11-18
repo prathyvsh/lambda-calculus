@@ -33,7 +33,7 @@ with Gentzen's work.
 ** Lambda calculus and combinators in the 20th century.
 Cardone, Felice & J. Roger Hindley. 2009. 
 
-** The logic of Church and Curry.
+** [[http://people.uleth.ca/~jonathan.seldin/CCL.pdf][The Logic of Church and Curry]]
 Seldin, Jonathan P. 2009. 
 
 ** The impact of the lambda calculus in logic and computer science.
