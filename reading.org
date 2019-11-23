@@ -105,7 +105,9 @@ https://web.archive.org/web/20180807220913/http://library.readscheme.org:80/page
 
 ** YCombinator
 https://mvanier.livejournal.com/2897.html
-The Why of Y: https://web.archive.org/web/20040203164806/http://www.dreamsongs.com/NewFiles/WhyOfY.pdf
+
+*** The Why of Y
+https://web.archive.org/web/20040203164806/http://www.dreamsongs.com/NewFiles/WhyOfY.pdf
 
 ** Engineering
 http://matt.might.net/articles/compiling-up-to-lambda-calculus/
