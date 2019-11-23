@@ -1,11 +1,10 @@
 * Reading
 
-Reading from multiple resources gives you a multidimensional
-perspective to Lambda Calculus. I highly recommend going through as
-many as possible until you develop a nuanced understanding about the
-subject. Considering the long term, indepth understanding is what will
-help you in achieving something substantial with the knowledge rather
-than using empty computer science words to impress people you meet.
+Reading from multiple resources gives you a multidimensional gestalt of a subject. I favour this approach after having learning through a subject linearly at school and college. I highly recommend going through as
+many perspectives as possible until you develop a nuanced understanding about the
+subject and can conduct your own reasoning about an arbitrary question about the subject.
+
+Considering the long term, such in depth understanding is what will help you in achieve something in an area where that subject hasn't been applied before. I find such use of the knowledge more substantial rather than using empty $5 computer science words to impress people.
   
 ** Light and easy
    
