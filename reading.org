@@ -8,7 +8,9 @@ Considering the long term, such in depth understanding is what will help you in 
   
 ** Light and easy
    
-*** Lambda Calculus for Linguists (2015) http://imgur.com/a/XBHub
+*** [[http://imgur.com/a/XBHub][Lambda Calculus for Linguists (2015)]]
+
+[[https://i.imgur.com/hQWGYJZ.png]]
     
 *** This one :P
    
