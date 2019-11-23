@@ -25,13 +25,6 @@ Download: http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf
 
 *** An Introduction to Functional Programming through Lambda Calculus (1988)
 *Author: Gregory Michaelson*
-
-*** Types and Programming Languages
-*Author: Benjamin Pierce*
-
-TAPL has a section that touches upon it.
-
-*** Architecture for Symbolic Computers
     
 *** Computability and Logic (1974)
     
@@ -56,30 +49,58 @@ TAPL has a section that touches upon it.
 ** Thorough
   
 Chris Hankin's Lambda Calculi: A guide for computer scientists (1994)
-Buy: 
 
-Lambda-Calculus Combinators and Functional Programming (1988)
+*** Lambda-Calculus Combinators and Functional Programming (1988)
 G. Revesz
-Buy: 
+
+*** The Lambda Calculus: Its Syntax and Semantics
+Barendregt, H. P. 1981
+
 
 Barendregt, 1994
 Download: http://www.nyu.edu/projects/barker/Lambda/barendregt.94.pdf
 
 The Architecture of Symbolic Computers
 
-History of Lambda-calculus and Combinatory Logic (2006)
-Felice Cardone ∗ J. Roger Hindley
+*** History of Lambda-calculus and Combinatory Logic (2006)
+Felice Cardone, J. Roger Hindley
 Download: http://www.users.waitrose.com/~hindley/SomePapers_PDFs/2006CarHin,HistlamRp.pdf
 
+** Books touching upon Lambda Calculus
+
+*** Types and Programming Languages
+*Author: Benjamin Pierce*
+
+*** Architecture for Symbolic Computers
+
+*** Hindley and Seldin (1987)
+
+*** Burge (1975)
+
+*** Wegner (1971)
+
+*** Field and Harrison (1988)
+
+*** Peyton-Jones (1987)
+
+*** Stoy (1977)
+
+*** Glaser et al. (1984)
+
+*** Henson (1987)
 
 ** Tangential
 
+*** [[https://web.archive.org/web/20190427190611/https://dl.acm.org/ft_gateway.cfm?id=1283933&type=pdf][Can programming be liberated from the von Neumann style? A functional style and its algebra of programs (1978)]]
+John Backus
 
-* Call-by-Name, Call-by-Value, and the Lambda Calculus
+A critique of von Neumann computing and arguments for functional programming
 
-Peter Norvig's Paradigms of AI: case studies in common lisp
+*** Call-by-Name, Call-by-Value, and the Lambda Calculus
 
-* The Lambda Papers
+*** Peter Norvig's Paradigms of AI: case studies in common lisp
+
+*** The Lambda Papers
 https://web.archive.org/web/20180807220913/http://library.readscheme.org:80/page1.html
 
 ** YCombinator
@@ -93,8 +114,3 @@ http://matt.might.net/articles/writing-an-interpreter-substitution-denotational-
 ** History
    
 Presented separately
-
-* [[https://web.archive.org/web/20190427190611/https://dl.acm.org/ft_gateway.cfm?id=1283933&type=pdf][Can programming be liberated from the von Neumann style? A functional style and its algebra of programs (1978)]]
-John Backus
-
-A critique of von Neumann computing and arguments for functional programming
