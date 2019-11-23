@@ -1,0 +1,100 @@
+* Reading
+
+Reading from multiple resources gives you a multidimensional
+perspective to Lambda Calculus. I highly recommend going through as
+many as possible until you develop a nuanced understanding about the
+subject. Considering the long term, indepth understanding is what will
+help you in achieving something substantial with the knowledge rather
+than using empty computer science words to impress people you meet.
+  
+** Light and easy
+   
+*** Lambda Calculus for Linguists (2015) http://imgur.com/a/XBHub
+    
+*** This one :P
+   
+** Intermediate
+
+*** Church’s Thesis and Functional Programming
+https://www.cs.kent.ac.uk/people/staff/dat/miranda/ctfp.pdf
+
+This is a beautiful paper that maps out the teritorry of Lambda Calculus.
+
+*** A Tutorial Introduction to the Lambda Calculus Raúl Rojas
+Download: http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf
+
+*** An Introduction to Functional Programming through Lambda Calculus (1988)
+*Author: Gregory Michaelson*
+
+*** Types and Programming Languages
+*Author: Benjamin Pierce*
+
+TAPL has a section that touches upon it.
+
+*** Architecture for Symbolic Computers
+    
+*** Computability and Logic (1974)
+    
+*** An unsolvable problem of elementary number  theory (1936)
+*Author: Alonzo Church*
+
+*** A note on the Entscheidungsproblem (1936)
+*Author: Alonzo Church*
+
+*** The calculi of lambda conversion (1941)
+*Author: Alonzo Church*
+
+*** A formulation of the logic of sense and denotation  (1951)
+*Author: Alonzo Church*
+
+*** A theory of the meaning of names (1995)
+*Author: Alonzo Church*
+
+*** [[https://web.archive.org/web/*/https://core.ac.uk/download/pdf/82536710.pdf][Why Gödel Didn’t Have Church’s Thesis (1982)]]
+*Author: Martin Davis*
+
+** Thorough
+  
+Chris Hankin's Lambda Calculi: A guide for computer scientists (1994)
+Buy: 
+
+Lambda-Calculus Combinators and Functional Programming (1988)
+G. Revesz
+Buy: 
+
+Barendregt, 1994
+Download: http://www.nyu.edu/projects/barker/Lambda/barendregt.94.pdf
+
+The Architecture of Symbolic Computers
+
+History of Lambda-calculus and Combinatory Logic (2006)
+Felice Cardone ∗ J. Roger Hindley
+Download: http://www.users.waitrose.com/~hindley/SomePapers_PDFs/2006CarHin,HistlamRp.pdf
+
+
+** Tangential
+
+
+* Call-by-Name, Call-by-Value, and the Lambda Calculus
+
+Peter Norvig's Paradigms of AI: case studies in common lisp
+
+* The Lambda Papers
+https://web.archive.org/web/20180807220913/http://library.readscheme.org:80/page1.html
+
+** YCombinator
+https://mvanier.livejournal.com/2897.html
+The Why of Y: https://web.archive.org/web/20040203164806/http://www.dreamsongs.com/NewFiles/WhyOfY.pdf
+
+** Engineering
+http://matt.might.net/articles/compiling-up-to-lambda-calculus/
+http://matt.might.net/articles/writing-an-interpreter-substitution-denotational-big-step-small-step/
+
+** History
+   
+Presented separately
+
+* [[https://web.archive.org/web/20190427190611/https://dl.acm.org/ft_gateway.cfm?id=1283933&type=pdf][Can programming be liberated from the von Neumann style? A functional style and its algebra of programs (1978)]]
+John Backus
+
+A critique of von Neumann computing and arguments for functional programming
