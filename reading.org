@@ -53,9 +53,15 @@ Chris Hankin's Lambda Calculi: A guide for computer scientists (1994)
 *** Lambda-Calculus Combinators and Functional Programming (1988)
 G. Revesz
 
+Conditionals and booleans
+Representation of numbers using false
+Church numeral encoding
+
 *** The Lambda Calculus: Its Syntax and Semantics
 Barendregt, H. P. 1981
 
+Representation of numbers using false.
+Church numeral encoding
 
 Barendregt, 1994
 Download: http://www.nyu.edu/projects/barker/Lambda/barendregt.94.pdf
@@ -75,19 +81,38 @@ Download: http://www.users.waitrose.com/~hindley/SomePapers_PDFs/2006CarHin,Hist
 
 *** Hindley and Seldin (1987)
 
-*** Burge (1975)
+*** Recursive Programming Techniques
+Burge (1975)
 
-*** Wegner (1971)
+Conditionals and booleans
+Church numeral encoding
+
+*** Programming Languages, Information Structures and Machine Organisation
+P. Wegner (1971)
+
+Conditionals and booleans
+Representation of numbers
+Church numeral encoding
 
 *** Field and Harrison (1988)
+Conditionals and booleans
+Representation of numbers
 
 *** Peyton-Jones (1987)
 
+*** Denotational Semantics: A Methodology for Language Development (1986)
+D. A. Schmidt
+
 *** Stoy (1977)
+Conditional expressions and booleans as exercises
 
 *** Glaser et al. (1984)
+Conditionals and booleans
+Representation of numbers using false
 
 *** Henson (1987)
+Conditionals and booleans
+Church numeral encoding
 
 ** Tangential
 
