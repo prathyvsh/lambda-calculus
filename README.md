@@ -74,8 +74,14 @@ Something is in normal form when it can't be reduced further.
 # Trivia
 While the untyped variant of Lambda Calculus is thought of as a canonical model that can carry out any conceivable computation, not all variants of Lambda Calculus is so. This property of being able to complete any computation is termed as **Turing Completeness** and the typed variant of Lambda Calculus is not Turing Complete.
 
-# Equivalent models of computation
+# Models of computation
 
-Recursive functions by Kleene.
+Recursive function theory by Gödel and Kleene.
 Turing Machine by Alan Turing.
-What was Gödel's theory called?
+
+# Nuances and tacit knowledge
+
+Very small changes in the way you create a language on top of Lambda Calculus could yield very different results.
+And there are tacit ideas like evaluation and combination undergirding the calculus, which if made explicit would give you a very different way of making programs tractable. One such example is the Kernel language, that uses an abstraction called vau instead of lambda to get evaluations and combinations done: https://web.cs.wpi.edu/~jshutt/kernel.html
+
+TODO: Catalogue other such spin-offs of Lambda Calculus and document the different lines of inquiry it has spun-off.
