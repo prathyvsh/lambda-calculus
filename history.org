@@ -1,5 +1,100 @@
 * History
 
+* History of Lambda Calculus
+
+The history culminating at the invention of Lambda Calculus is a bundle of braids that intertwine with each other to finally form the theoretical framework. The links could be traced back at least back until Aristotle and scholastic logic. But that would be a long winded way to open up the subject to an interested reader.
+
+One good point I think is to start right after the logistic bent of history of logic, post the publication of Whitehead and Russell’s landmark Principia Mathematica which inspired Schönfinkel, Post, Turing, Church, and Gödel to come up with their theories of computation. In Principia Mathematica, which was influenced by Hilbert’s problems and with the thrust of the Fregean notational revolution, Russell and Whitehead attempted to formalize all of mathematics with the undergirding of logic. This is the project from which Church got inspired to create his Lambda Calculus.
+
+* Completed
+
+** [[https://amzn.to/2Lxak0t][Engines of Logic]]
+Martin Davis (2000)
+
+A good book by Martin Davis on the development that lead to mechanization of logic.
+
+** [[https://pron.github.io/posts/computation-logic-algebra-pt1][Finite of Sense and Infinite of Thought: A History of Computation, Logic and Algebra]]
+Ron Pressler (2018)
+
+A detailed review by Ron Pressler on the historical incidents that generated the idea of computation.
+
+* Survey/Overview
+
+** [[https://dl.acm.org/doi/10.5555/57249.57252][Confluence of Ideas in 1936 ]]
+Robin Gandy (October 1988)
+
+** [[https://pdfs.semanticscholar.org/959d/32cfa6df9299312ba51e2102045e1f25bc18.pdf][History of Lambda Calculus and Combinatory Logic]]
+Felice Cardone, Roger Hindley (2006)
+
+** [[https://ieeexplore.ieee.org/document/4640786][Highlights of the History of the Lambda-Calculus]]
+J. Barkley Rosser, 1984
+
+** [[https://turing100.acm.org/lambda_calculus_timeline.pdf][Lambda Calculus Then and Now]]
+Dana Scott (2012)
+ACM Centenary Talk
+
+** [[http://www.people.cs.uchicago.edu/~soare/History/handbook.pdf][The History and Concept of Computability]]
+Robert I. Soare
+
+** [[https://f.hypotheses.org/wp-content/blogs.dir/4029/files/2018/11/Hammache_SlidesBertinoro_compact.pdf][Lambda Calculus: From logic to computation]]
+Wendy Hammache, 2018
+
+** [[https://www.cs.helsinki.fi/u/jllang/Introduction_to_Lambda_Calculus_2020-02-20.pdf][Introduction to Lambda Calculus]]
+John Lång, 2020
+
+A great set of slides that explores the broad setting in which Lambda Calculus is situated.
+
+* Individual Subjects
+
+** [[https://dl.acm.org/doi/10.1109/MAHC.1981.10004][Origins of Recursive Function Theory]]
+
+** [[https://link.springer.com/chapter/10.1007/978-3-319-22156-4_1][Conceptual Confluence in 1936]]
+Post and Turing, Martin Davis and Wilfried Sieg (2015)
+
+** [[http://people.uleth.ca/~jonathan.seldin/CCL.pdf][The Logic of Curry and Church]]
+Peter Seldin, March 3 2008
+
+* Tangential but interesting
+
+** [[https://johnmacfarlane.net/church.html][Collection of Journal of Symbolic Logic reviews by Alonzo Church]]
+
+** [[http://www.people.cs.uchicago.edu/~soare/History/handbook.pdf][History of Computability]]
+Robert I. Soare
+
+* People
+Notes on the People who have contributed to Lambda Calculus
+
+** Immediate Predecessors
+
+- Frege
+- Hilbert
+- Ackermann
+- Russell
+- Moses Schönfinkel
+- Alonzo Church
+- Alan Turing
+- Kurt Gödel
+- Emil Post
+- Stephen Kleene
+- Haskell Curry
+- Barker
+- Dana Scott
+- Christopher Strachey
+- Peter Landin
+- John Reynolds
+- Gordon Plotkin
+- Bagrendt
+- D.A. Turner
+- Story
+
+** Precedents
+
+*** 1800s
+- Charles Babbage
+- Jevons
+- Venn
+
+
 * Finished
 
 ** [[http://www-history.mcs.st-andrews.ac.uk/history/Extras/Rota_Church.html][Gian Carlo Rota on Church]]
