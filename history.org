@@ -1,5 +1,3 @@
-* History
-
 * History of Lambda Calculus
 
 The history culminating at the invention of Lambda Calculus is a bundle of braids that intertwine with each other to finally form the theoretical framework. The links could be traced back at least back until Aristotle and scholastic logic. But that would be a long winded way to open up the subject to an interested reader.
@@ -44,9 +42,33 @@ John Lång, 2020
 
 A great set of slides that explores the broad setting in which Lambda Calculus is situated.
 
+* To Read
+
+** Lambda calculus and combinators in the 20th century.
+Cardone, Felice & J. Roger Hindley. 2009. 
+
+** [[http://people.uleth.ca/~jonathan.seldin/CCL.pdf][The Logic of Church and Curry]]
+
+Seldin, Jonathan P. 2009. 
+
+** The impact of the lambda calculus in logic and computer science.
+The Bulletin of Symbolic Logic 3.2: 181–215. DOI 10.2307/421013.
+
+** Lambda Calculus Timeline (2010)
+*Author: Dana Scott*
+
+Download: https://turing100.acm.org/lambda_calculus_timeline.pdf
+
+** The History and Concept of Computability
+http://www.people.cs.uchicago.edu/~soare/History/handbook.pdf
+
+** The Theory of Recursive Functions, approaching its centennial
+https://projecteuclid.org/euclid.bams/1183548220
+
 * Individual Subjects
 
-** [[https://dl.acm.org/doi/10.1109/MAHC.1981.10004][Origins of Recursive Function Theory]]
+** [[http://logicae.usal.es/mambo/index.php?option=com_summalogicaexxi&menu_task=Download&task=no_task&cmd=no_cmd&file_id=97][Alonzo Church: His Life, His Work, and Some of His Miracles (1996)]]
+María Manzano
 
 ** [[https://link.springer.com/chapter/10.1007/978-3-319-22156-4_1][Conceptual Confluence in 1936]]
 Post and Turing, Martin Davis and Wilfried Sieg (2015)
@@ -94,7 +116,6 @@ Notes on the People who have contributed to Lambda Calculus
 - Jevons
 - Venn
 
-
 * Finished
 
 ** [[http://www-history.mcs.st-andrews.ac.uk/history/Extras/Rota_Church.html][Gian Carlo Rota on Church]]
@@ -109,7 +130,6 @@ a better perspective of how things evolved during 1950-1990.
 ** [[https://www.tandfonline.com/doi/abs/10.1080/01445349708837290][Alonzo Church: His Life, His Work and Some of His Miracles]]
 *Author: María Manzano*
 
-
 Gives a detail of the background in which Lambda Calculus emerged. The
 author attempts to portray Lambda Calculus as the great discovery of
 Church and rest of his works as derivatives of that keystone work. It
@@ -119,20 +139,8 @@ on the lineage of Lambda Calculus.
 ** [[https://homepages.inf.ed.ac.uk/wadler/papers/leicester/leicester-turing.pdf][Slide Deck on the evolution of Lambda Calculus by Philip Wadler]]
 *Author: Philip Wadler*
 
-A breezy overview of the evolution of Lambda Calculus. Showed link
+A breezy overview of the evolution of Lambda Calculus. Shows links
 with Gentzen's work.
-
-
-* To Read
-
-** Lambda calculus and combinators in the 20th century.
-Cardone, Felice & J. Roger Hindley. 2009. 
-
-** [[http://people.uleth.ca/~jonathan.seldin/CCL.pdf][The Logic of Church and Curry]]
-Seldin, Jonathan P. 2009. 
-
-** The impact of the lambda calculus in logic and computer science.
-The Bulletin of Symbolic Logic 3.2: 181–215. DOI 10.2307/421013.
 
 ** Highlights of the History of the  Lambda Calculus
 https://ieeexplore.ieee.org/document/4640786
@@ -140,14 +148,3 @@ https://ieeexplore.ieee.org/document/4640786
 ** Origins of recursive function theory (1981)
 *Author: Stephen Cole Kleene*
 https://www.computer.org/csdl/magazine/an/1981/01/man1981010052/13rRUNvyamS
-
-** Lambda Calculus Timeline (2010)
-*Author: Dana Scott*
-
-Download: https://turing100.acm.org/lambda_calculus_timeline.pdf
-
-** The History and Concept of Computability
-http://www.people.cs.uchicago.edu/~soare/History/handbook.pdf
-
-** The Theory of Recursive Functions, approaching its centennial
-https://projecteuclid.org/euclid.bams/1183548220
