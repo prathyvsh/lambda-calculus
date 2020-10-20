@@ -76,6 +76,11 @@ Post and Turing, Martin Davis and Wilfried Sieg (2015)
 ** [[http://people.uleth.ca/~jonathan.seldin/CCL.pdf][The Logic of Curry and Church]]
 Peter Seldin, March 3 2008
 
+** [[http://logicae.usal.es/mambo/index.php?option=com_summalogicaexxi&menu_task=Download&task=no_task&cmd=no_cmd&file_id=642][Diagonalisation and Church's Thesis: Kleene’s Homework (2004)]]
+
+** [[https://core.ac.uk/reader/82536710][Why Gödel didn’t have Church’s thesis (1982)]]
+Martin Davis
+
 * Tangential but interesting
 
 ** [[https://johnmacfarlane.net/church.html][Collection of Journal of Symbolic Logic reviews by Alonzo Church]]
