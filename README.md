@@ -50,7 +50,7 @@ Alpha conversion creates a non-conflicting namespace for proper application to f
 `⋀fun.⋀arg.(fun arg) add 3 |- (add 3)`
 
 ## Eta Reduction
-` ⋀name.(func name) |-  `
+` ⋀name.(func name) |- func`
 
 # Variables
 
